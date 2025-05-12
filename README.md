@@ -1,4 +1,4 @@
-![okn](okn.png)
+![okn](OKN.png)
 
 🚀 Bem-vindo(a). Este é o desafio Front end da OKN!
 
