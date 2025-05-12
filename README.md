@@ -38,3 +38,5 @@ O desafio será implementar um e-commerce que deverá ter as seguintes funcional
 
 🦝 Depois que tudo estiver pronto, envie o link do repositório e o link do projeto online, caso tenha feito o deploy, para:
 tiago@okn.com.br
+
+🚀Sim, o layout foi inspirado no capputeeno da rocket
