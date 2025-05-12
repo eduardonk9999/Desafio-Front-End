@@ -1,4 +1,6 @@
-![okn](OKN.png)
+
+<img src="OKN.png" alt="OKN" width="300" height="200">
+
 
 🚀 Bem-vindo(a). Este é o desafio Front end da OKN!
 
