@@ -14,9 +14,9 @@ O objetivo deste desafio é entender suas habilidades de desenvolvimento front-e
 
 O desafio será implementar um e-commerce que deverá ter as seguintes funcionalidades:
 
--Catálogo de produtos com paginação
--Filtragem produtos por categoria
--Busca por nome do produto
+ - Catálogo de produtos com paginação
+ - Filtragem produtos por categoria
+ - Busca por nome do produto
 
  📋 Instruções
  - Pode utilizar Next.Js ou criar o HTML, CSS, JS puro.
