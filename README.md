@@ -1,5 +1,5 @@
 
-<img src="OKN.png" alt="OKN" width="300" height="200">
+<img src="OKN.png" alt="OKN" width="300">
 
 
 🚀 Bem-vindo(a). Este é o desafio Front end da OKN!
