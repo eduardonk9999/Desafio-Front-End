@@ -1,4 +1,4 @@
-![Logo do Projeto](okn.svg)
+![okn](okn.png)
 
 🚀 Bem-vindo(a). Este é o desafio Front end da OKN!
 
