@@ -1,7 +1,3 @@
-
-<img src="OKN.png" alt="OKN" width="300">
-
-
 🚀 Bem-vindo(a). Este é o desafio Front end da OKN!
 
 O objetivo deste desafio é entender suas habilidades de desenvolvimento front-end. Quando terminar, basta responder ao e-mail que recebeu com o link do seu repositório aqui no GitHub. Depois disso, daremos o feedback e passaremos para os próximos passos. Boa sorte! 🚀
